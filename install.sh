@@ -13,11 +13,11 @@ sudo pip3 install Pillow==8.4.0
 sudo pip3 install cython
 
 #Install Mod Software
-mkdir /home/pistomp/.lv2
-mkdir /home/pistomp/data
-mkdir /home/pistomp/data/.pedalboards
-mkdir /home/pistomp/data/user-files
-cd /home/pistomp/data/user-files
+mkdir /home/orangepi/.lv2
+mkdir /home/orangepi/data
+mkdir /home/orangepi/data/.pedalboards
+mkdir /home/orangepi/data/user-files
+cd /home/orangepi/data/user-files
 mkdir "Speaker Cabinets IRs"
 mkdir "Reverb IRs"
 mkdir "Audio Loops"
